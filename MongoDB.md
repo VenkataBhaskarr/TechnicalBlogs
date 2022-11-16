@@ -9,3 +9,13 @@ What’s before mongodb or what are the options available to use in databases
 MongoDB is a NoSQL database which stores the data in collections and documents rather than storing the data in traditional table, row and column format which can be seen in SQL databases.
 
 The collections in mongodb(NoSQL databases) are essentially the collection of documents in return the document is a collection of JSON data (heirerchial json data is also allowed in documents of MongoDB database)
+
+MongoDB compass is a GUI tool that helps us to visualize the databases that we have created and also helps us to create update and delete the documents in collections which are indeed stores as the data in a database
+
+MongoDB cluster in nothing but a (NoSQL) database/databases.
+
+Inorder to work in MongoDB compass we need to connect the compass with our MongoDB cluster in order to do so we need the connection string the default value for that is connected to our local MongoDB services
+
+# MongoDB Atlas 
+
+
