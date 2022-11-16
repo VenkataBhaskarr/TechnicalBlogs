@@ -18,4 +18,6 @@ Inorder to work in MongoDB compass we need to connect the compass with our Mongo
 
 # MongoDB Atlas 
 
+As per my understanding MongoDB atlas helps you to create MongoDB cluster that is hosted by any of the cloud providers of your choice so that it can be deployable, mangable and scalable easily as your projects grows
 
+For smaller projects we can use local mongodb cluster but when the project is huge mongodb we might try mongodb atlas
