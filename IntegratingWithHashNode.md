@@ -1,10 +1,10 @@
 ---
 title: IntegratingWithHashNode.md **(Required)**
-subtitle: YOUR_SUBTITLE_HERE
+subtitle: (https://venkatabhaskar.hashnode.dev/IntegratingWithHashNode)
 /* The pathname of your article url 
  * Ex. In https://engineering.hashnode.com/how-we-autodetect-spam-using-googles-vertex-ai 
    "how-we-autodetect-spam-using-googles-vertex-ai" is the slug */ 
-slug: CUSTOM_ARTICLE_SLUG_HERE (Will be created automatically if not provided)
+slug: IntegratingWithHashNode (Will be created automatically if not provided)
 tags: TAG_SLUG_1, TAG_SLUG_2 **(Required)** - You can find the list of tags here https://github.com/Hashnode/support/blob/main/misc/tags.json
 /* You need to upload your image to https://hashnode.com/uploader 
 and use the uploaded image URL as COVER_IMAGE_URL */ 
