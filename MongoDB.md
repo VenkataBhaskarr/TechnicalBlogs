@@ -1,3 +1,13 @@
+---
+title: MongoDB and MongoDB Atlas
+subtitle: https://venkatabhaskar.hashnode.dev/MongoDB
+slug: CUSTOM_ARTICLE_SLUG_HERE (Will be created automatically if not provided)
+tags: learning
+domain: venkatabhaskar.hashnode.dev  
+publishAs: VenkataBhaskar
+---
+
+
 # MongoDB
 
 
