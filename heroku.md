@@ -27,7 +27,6 @@ Now you did understood about what heroku is so now lets discuss what it does
 
 ### Containerizing the application
 - TBC
-- TBC
 
 ### HTTP routing
 - TBC
