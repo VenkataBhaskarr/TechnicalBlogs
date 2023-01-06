@@ -57,6 +57,8 @@ n : 2
 square2 : as it is a function invocation another execution context is created and pushed on top of the global execution context in the call stack which follows the similar rules and returns the execution control when the function completed its execution and removes from the call stack.
 square4 : same story
 
+![image](https://user-images.githubusercontent.com/114099821/211069035-eb09db11-42fa-4b8b-9911-31957d04ff67.png)
+
 
 
 
