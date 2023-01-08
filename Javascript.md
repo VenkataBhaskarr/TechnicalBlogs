@@ -222,3 +222,10 @@ The major difference between both these declarations are hoisting where the form
 
 CALL BACK FUNCTIONS
 
+> These are the most important functions in javascript because they introduce the concept of asynchronous behavior to the synchronous javascript.
+
+> that is we can control which block of code can execute after the present running block of code which we would often say as asynchronous
+
+> closures form only with the functions when the sub function is declared in the parent function but not when its passed as a value or an argument
+
+
