@@ -228,4 +228,25 @@ CALL BACK FUNCTIONS
 
 > closures form only with the functions when the sub function is declared in the parent function but not when its passed as a value or an argument
 
+WEB API'S
+
+> the whole architecture of javascript is below 
+
+<img width="874" alt="Screenshot 2023-01-10 at 9 32 44 PM" src="https://user-images.githubusercontent.com/111889155/211601352-a1b25400-5049-47c0-90b2-f6af6ea8228e.png">
+
+> the webAPI's are bundled and served to the call stack by the v8-engine in the form of a window/global object.
+
+event loop, callBack queue and microtask queue
+
+> lets say we declare a setTimeout function when it is running basically its a callback function it is registered in the `BROWSER` and when it completes it's timer it is pushed into the callback queue present int the browser not directly to the call stack present in the v8 engine because of access denial
+and then the event loop will check whether the call stack is empty and then pushes the events in call back queue to the call stack and then it starts executing.
+
+> callbacks bagges with the promises are special type of callbacks and are given high priority than the other callbacks and hence the microtask queue are introduced it works similar to call back queue but the ddifference is the event loop would give high priority to micro task queue.
+
+
+HIGHER ORDER FUNCTIONS
+
+>
+
+
 
