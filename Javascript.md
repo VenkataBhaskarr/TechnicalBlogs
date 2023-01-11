@@ -246,7 +246,27 @@ and then the event loop will check whether the call stack is empty and then push
 
 HIGHER ORDER FUNCTIONS
 
->
+> Those function which can take another function as arguments or which can return functions from themselves are called as higher order functions 
+> those functions which are sent as arguments are called as call back functions
+> these functions are essentially the heart of javascript as literaly broo we can pass function into functions and use them and later we can return it just imagine its hecking amazing right.
+> polyfills are the functions created by user which can act on all the objects and arrays like the inbuilt map function.
+> map function maps the every children of an array to the given function.
+
+DEEP DIVE INTO SOME HIGHER ORDER FUNCTIONS
+
+`map`
+> the map function is called upon an array takes a function as an argument and returns an array
+under the hood implemntation
+
+`filter`
+> As the name suggests it filters out some values in the array and returns the filtered array most useful function in javascript frame works
+under the hood implementation
+
+
+PROMISES
+
+> 
+
 
 
 
