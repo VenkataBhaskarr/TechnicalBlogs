@@ -1,7 +1,9 @@
 
-# The ultimate reference to the #Javascript.
+# The ultimate reference to the Javascript.
 
-CREDITS : AKSHAY SAINI
+CREDITS : AKSHAY SAINI (this is the summary written in my words of akshay saini's namaste javascript videos)
+
+NOTE    : This blog is not fixed and constantly evolving if you find any mistake of the concept let me know and i am vey happy to discuss.
 
 
 
@@ -228,6 +230,12 @@ CALL BACK FUNCTIONS
 
 > closures form only with the functions when the sub function is declared in the parent function but not when its passed as a value or an argument
 
+> call back functions are super important in javascript as they introduce asynchrnous nature to the javascript code 
+
+> but the while dealing with callback functions we might face some issues out of all the two main important issues are `CALBACK HELL` and `INVERSION OF CONTROL` 
+
+> when there are chained callbacks it often called as callback hell and when we declare our callback we are blindly following that particular api/hiher order function to execute our callback so we are giving the control of our code to the hiherorde function/api which is a serious issue.
+
 WEB API'S
 
 > the whole architecture of javascript is below 
@@ -265,7 +273,12 @@ under the hood implementation
 
 PROMISES
 
-> 
+> promises when called are registered and then are stored in microtask queue later pushed into call stack with the help of event loop
+> on the high level promises represents the evnetual completion of an asynchronous event
+> it has two properties which are used to resolve the promises 
+> promises are extensively used in place of callbacks to avoid callback hell and inversion control
+
+ 
 
 
 
