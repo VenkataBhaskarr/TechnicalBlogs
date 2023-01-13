@@ -121,8 +121,48 @@ Let (vs) const (vs) var
 > both reference and the type errors would occur during the phase of code execution and the syntax error occurs during the memory allocation phase
 
 
+### Undefined vs not defined
+
+### undefined
+1. undefined is a javaScript special keyword.
+2. Undefined means, a variable that has been declared but not assigned a value.
+
+### not defined
+1. similar to other programming languages, not defined indicates that a variable does not exist. 
+2. It comes in picture, by trying to access variable that is out of score.
+3. Basically it means a "Reference Error".
+### undefined example
+1.2 code
+
+    console.log(a);
+    var a = 5;
+    console.log(a);
 
 
+> Even before the varibale 'a' is declared, javaScript allocates memory to this varable 'a' in the global scope;
+
+
+### console.log(a); // trying to print before declared, --> it gives undefined.
+
+![aglobal](https://user-images.githubusercontent.com/114099821/212151962-d36eb190-f814-4f31-8c8d-32bfc433d8d3.png)
+
+> var a = 5; // Declaration
+
+### console.log(a); // trying to print after declaration, --> it prints value "5".
+
+![bb](https://user-images.githubusercontent.com/114099821/212152100-8eb45dcc-71fe-4224-b35d-c75c38b7b45a.png)
+
+
+### not defined example
+1.3 code
+
+    var a = 5;
+    console.log(b);
+
+
+> as 'b' was not declared, so it gives not defined (Reference Error) sice javaScript engine was not able to find in the global scope.
+
+![c](https://user-images.githubusercontent.com/114099821/212152707-f8f23b94-ad31-467f-a733-d7ab2e99848e.png)
 
 
 BLOCK AND SCOPE
