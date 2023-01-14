@@ -45,8 +45,8 @@ networks of networks is called an Internet
 1. after the router everything is based on WAN like the ISP and things like that.
 2. there are two types of WAN public and private based on cost and privacy.
 
+### MAN
 
-
-
-
-
+1. It is a metropolitan area network (MAN).
+2. A computer network that connects computers within a metropolitan area.
+3. A network that interconnects users with computer resources in a geographic area, that covered by even a LAN but smaller than the area covered by WAN.
