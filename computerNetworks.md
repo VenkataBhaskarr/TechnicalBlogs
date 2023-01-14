@@ -10,13 +10,43 @@ some model to serve its users lets say WWW is a distributed system which provide
 2.distributed systems are built using middleware a software which is present on the os in simple terms distributed systems depends on the operating systems
 and the networks are independent of the operating systems.
 
-## Architectures
+## what is networking?
 
-> Client - server architecture
+sending data/resources to other hosts through the internet is called networking
 
-A classic example of client - server architecture is www where the websites would be hosted in server(a centralized computationally powerful computer) and we 
-the clients would access them through the networks.
+## what is host?
 
-> peer to peer networks
+any device that can be assigned an IP address is called a host
 
-In this kind of networks there is no fixed client and server d a single node can be served both as server and client.
+## what is a switch?
+
+TWL
+
+## Router
+
+a router is used to connect two or more different networks
+
+## Internet
+
+networks of networks is called an Internet
+
+> Networks are divided into two classes based on the transmission technologies and the scale(distance)
+
+> the networks based on the transmission technology are broadcast networks and point to point networks
+
+> the networks that are under the category of scaling are PAN,LAN,MAN and WAN.
+
+### LAN
+
+1. the home wifi setup is the classical example of the LAN which includes hosts,switch,router. More on this later
+
+### WAN 
+
+1. after the router everything is based on WAN like the ISP and things like that.
+2. there are two types of WAN public and private based on cost and privacy.
+
+
+
+
+
+
