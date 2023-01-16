@@ -21,7 +21,7 @@ any device that can be assigned an IP address is called a host
 ## what is a switch?
 
 switches are devices that are used as intermidatery devices to connect two or more systems and can also connects these systems to the router
-its job is to maintain IP address and send the data to the correct IP address oin the local area devices which are connected through this switch
+its job is to maintain MAC address and send the data to the correct MAC address on the locally connected devices through the switch.
 
 ## Router
 
@@ -91,6 +91,32 @@ CREDITS : ANIMAGRAFFS youtube video of how a VPN works (the best video about VPN
 2. these are three types wired NIC(ethernet cable holder) wireless NIC(mostly present in our systems and with this we can connect to the router and send the info to router) and bluetooth NIC.
 3. these have some speeds at ehich they can send/recieve information the conslict story of router speed and the NIC speed (will discuss later)
 
+## What is IP address?
 
+1. IP stands for internet protocol address assigned to every host 
+2. there are two types of IP address IP4 and IP6. IP6 is introduced because of all the available IP4 address are being assigned and we running out of address
+
+## IP4
+
+1. it's a 32 bit address divided into 4 groups x.x.x.x each group is of 8 bits (generally represented in decimal format). Further divided into 5 classes based on a technique implemented by IANA
+
+2. 0 and 127 are reserved in IP4 
+3. inorder to buy IP address IANA created 5 organisations for different locations.
+
+## IP6 
+
+1. it's a 128 bit address divided into 8 groups each group consists of 16 bits (generally represneted in hexa decimal format0. 
+2. came into existence because IP4 address are running out of stock 😉
+
+## INTERNET and the History if the INTERNET
+
+> Internet its not a super power, nothing just nothing but a network of networks like we are sendin information from one computer to another just thats it that is what internet is called at the end of the day we are sending them from our computer to another through the cables constructed in the submarines which are provided by the ISP's
+
+1. The internet came into the picture long back when there was a cold war going between Russia and USA where russia sent its first satellite sputnik and then america seeing that formed two organizations DARPA(defence advanced research project agency) and NASA(National Aeronautics and Space Administration)
+2. the primary goal of DARPA is to create a network among its defence beanches present in various locations in order to ease the communications between them for which they constructed the cables underground and established a network and NASA is for developing rocket science.
+3. after successfully creating the network DARPA decided to launch it publicly named as ARPA(advanced research project agency). the investors invested to construct cables along different locations are now called as tier1 ISP's 
+4. later the tier2 ISP's retrieve the information from tier1 ISP that is deriving the internet from tier1 isp and provides to the users or else it will further gives its power to the tier3 ISP's
+
+<img width="819" alt="Screenshot 2023-01-16 at 10 08 33 AM" src="https://user-images.githubusercontent.com/111889155/212604489-659538ae-cf49-44f7-a64a-59e91f4a76a4.png">
 
 
