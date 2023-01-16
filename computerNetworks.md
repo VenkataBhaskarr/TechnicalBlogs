@@ -18,8 +18,13 @@ sending data/resources to other hosts through the internet is called networking
 
 any device that can be assigned an IP address is called a host
 
+## what is a hub?
+
+a device that lets you to communicate with other devices using concept of bradcasting and is less efficient.
+
 ## what is a switch?
 
+switches are successor of hubs which are intelligent devices that uses uni and multi casting based on MAC address
 switches are devices that are used as intermidatery devices to connect two or more systems and can also connects these systems to the router
 its job is to maintain MAC address and send the data to the correct MAC address on the locally connected devices through the switch.
 
@@ -119,4 +124,15 @@ CREDITS : ANIMAGRAFFS youtube video of how a VPN works (the best video about VPN
 
 <img width="819" alt="Screenshot 2023-01-16 at 10 08 33 AM" src="https://user-images.githubusercontent.com/111889155/212604489-659538ae-cf49-44f7-a64a-59e91f4a76a4.png">
 
+
+## PROTOCOLS
+
+1. protocols are nothing but a set of rules to be followed inorder to successfully complete a particular task
+2. network protocols are the set of pre defined rules in order to send/recieve data packets from your device to targeted devices
+3. the old and standard protocol is OSI(open systems inter connection model this is not used now it s outdated but every tother protocol or the ones we are currently using also based on OSI model) the present model is TCP/IP which stands for transmission control protocol/internet protocol.
+
+
+## OSI model (please do not throw spicy pizzas away)
+
+1. 
 
