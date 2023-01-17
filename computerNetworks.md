@@ -135,10 +135,16 @@ CREDITS : ANIMAGRAFFS youtube video of how a VPN works (the best video about VPN
 ## OSI model (please do not throw spicy pizzas away)
 
 ` 1. PHYSICAL LAYER `
+
 ` 2. DATA LINK LAYER `
+
 ` 3. NETWORK LAYER `
+
 ` 4. TRANSPORT LAYER `
+
 ` 5. SESSION LAYER `
+
 ` 6. PRESENTATION LAYER `
+
 ` 7. APPLICATION LAYER `
 
