@@ -136,15 +136,37 @@ CREDITS : ANIMAGRAFFS youtube video of how a VPN works (the best video about VPN
 
 ` 1. PHYSICAL LAYER `
 
+> the ethernet cables , NIC's comes under the physical layer the rj45 port used to connect the ethernet cables
+> how the bits are represented in the cables (digital/electrical)
+> data is represented as bits in this layer
+
 ` 2. DATA LINK LAYER `
+
+> data link layer revolves around MAC addresses that is the physical addresses of the devices
+> the data is represented as frames in this layer
 
 ` 3. NETWORK LAYER `
 
+> network layer revolves around the IP address that is logical addresses of the devices
+> routers are involved in this layer
+> the data is represented in the form of packets
+
 ` 4. TRANSPORT LAYER `
+
+> transport layer is further divided into two protocols TCP(for reliability) and UDP (for fast connections)
+> keeps track of port addresses
+> the data is represented as segments
 
 ` 5. SESSION LAYER `
 
+> initilizes a session and maintains the session
+> authentication and authorization occurs at this level
+
 ` 6. PRESENTATION LAYER `
+
+> the application layer is responsible for data formatting and data encryption
 
 ` 7. APPLICATION LAYER `
 
+> the protocols present and running under the hood of user applications comes under this layer but not the applications themselves
+> SMTP,HTTP AND HTTPS ARE some of the protocols
