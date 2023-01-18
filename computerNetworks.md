@@ -170,3 +170,35 @@ CREDITS : ANIMAGRAFFS youtube video of how a VPN works (the best video about VPN
 
 > the protocols present and running under the hood of user applications comes under this layer but not the applications themselves
 > SMTP,HTTP AND HTTPS ARE some of the protocols
+
+
+## SOME JARGOONS 😏
+
+> the IP4 address are in the format X.X.X.X these are further divide into classes by IANA 
+<img width="1424" alt="Screenshot 2023-01-18 at 11 23 28 AM" src="https://user-images.githubusercontent.com/111889155/213121090-242adac6-7aae-4fa0-8052-0b86c257684c.png">
+
+> the IP address consists of two parts, one is the Host address and other is the network address
+
+> if two or more systems wants to communicate with each other their network parts must be the same
+
+> in order to implement this topic they have introdiced the concept of subnet mask. subnet mask is a value which gives the devices the information about the network address to compare in order to communicate.
+
+> the default subnet mask for A class IP's are 255.0.0.0
+> the default subnet mask for B class IP's are 255.255.0.0
+> the default subnet mask for C class IP's are 255.255.255.0
+> you know subnet mask for A class IP's can be also 255.255.0.0 or 255.255.255.0 and same for B and C classes hence we cant judge classes by subnets we can only judge classes by actual IP's
+
+> generally class D IP's are used for routing protocols and class E protocols are not under consideration dont know why. but we will give them a shot as well but not now.
+
+> but in general whole world doent contain the same network address in order to communicate they have different network address assigned to them but in order t o facilitate communication betoween them routers came into the picture routers enable the communication between different networks.
+
+> router store the network address in their routing and sends the information to that network address that is another router
+
+
+## DEEP DIVE INTO SUBNETTING AND SUB MASK
+
+> subnetting is a strategy used to reduce the wastage of IP' addresses
+
+<img width="498" alt="Screenshot 2023-01-18 at 2 43 51 PM" src="https://user-images.githubusercontent.com/111889155/213137536-59ff077f-17da-4eab-a799-186772f9550d.png">
+
+refer above values for getting the submasks
