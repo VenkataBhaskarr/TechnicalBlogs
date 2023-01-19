@@ -202,3 +202,9 @@ CREDITS : ANIMAGRAFFS youtube video of how a VPN works (the best video about VPN
 <img width="498" alt="Screenshot 2023-01-18 at 2 43 51 PM" src="https://user-images.githubusercontent.com/111889155/213137536-59ff077f-17da-4eab-a799-186772f9550d.png">
 
 refer above values for getting the submasks
+
+> dividind a network address into subnets , why? to reduce the cost of buying more IP's and to decrease tjhe traffic flow through unneccessary routes
+
+> it si based on simple statregy refer the pages attached below 
+
+> X.X.X.X/V here V is the slash value, with the help of the slash value he computers can derive the subnet mask udsed to identofy the network address
