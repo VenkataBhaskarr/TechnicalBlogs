@@ -1,4 +1,4 @@
-## what is computer network?
+## what are computer networks?
 
 a group of systems connected through a communication medium and guided by a protocal is called computer networks.
  
