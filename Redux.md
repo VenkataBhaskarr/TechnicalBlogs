@@ -1,4 +1,4 @@
-Redux : 
+## Redux
 
 1. The solution for classical dilemma that devs goes through is the react components state management 
 
