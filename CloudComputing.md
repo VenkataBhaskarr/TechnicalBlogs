@@ -59,5 +59,5 @@ There are four types of computing in general
 
 ### Cloud computing deployement models
 
-
+TO BE CONTINUED
 
