@@ -1,4 +1,4 @@
-# These are things i learned/am learning while going through the AWS cloud practioner course by andrew brown.
+# These are things i am learning/learned while going through the AWS cloud practioner course by andrew brown.
 ## Every image in this blog is taken from this [Youtube Video](https://www.youtube.com/watch?v=SOTamWNgDKc&t=30s). Huge Shoutout to FREECODECAMP and andrewbrown
 
 ### Traditional hosting architecture
