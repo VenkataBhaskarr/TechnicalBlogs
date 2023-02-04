@@ -46,3 +46,13 @@ class Admin extends User {
   }
 }
 ```
+
+### we can also emulate class like behaviour without using the class keyword and just using the constructor function alone 
+
+```
+function User(name){
+  this.name = name;
+  this.login = function(){
+  }
+}
+```
