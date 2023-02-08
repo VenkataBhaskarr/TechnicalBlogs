@@ -59,5 +59,15 @@ There are four types of computing in general
 
 ### Cloud computing deployement models
 
-TO BE CONTINUED
+> PUBLIC CLOUD
+this model is also called as cloud native or cloud first approach where the software/application is completely build on cloud like the networks,storage,database and computations everything on cloud
+
+> PRIVATE CLOUD
+this model is also called as onPremise approach where the company has its own data centers and they are responsible for the complete management their IaaS 
+
+> HYBRID CLOUD
+this model as the name suggests is a hybrid of both public cloud and private cloud
+
+> CROSS CLOUD 
+this model is based on using the multiple clouds at a same time
 
