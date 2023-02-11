@@ -5,7 +5,7 @@
 
 > dedicated server
 
-one physical machone and can run one app and can provide the machine to single organization.
+one physical machine and can run one app and can provide the machine to single organization.
 
 > virtual private server
 
@@ -21,8 +21,8 @@ many physical machines and can run multiple apps and provides to multiple organi
 
 ### What are CSP's
 
-CSP is a company which provides multiples cloud services and chaining these to form the cloud architecture.
-on the other hand cloud platforms are the ones which provide certain number of services but not the every service put there.
+CSP is a company which provides multiple cloud services and chaining these to form the cloud architecture.
+on the other hand cloud platforms are the ones which provide certain number of services but not the every service out there.
 
 ### cloud services
 
@@ -60,7 +60,7 @@ There are four types of computing in general
 ### Cloud computing deployement models
 
 > PUBLIC CLOUD
-this model is also called as cloud native or cloud first approach where the software/application is completely build on cloud like the networks,storage,database and computations everything on cloud
+this model is also called as cloud native or cloud first approach where the software/application is completely build on cloud like all the services includes networks,storage,database and computations everything on cloud
 
 > PRIVATE CLOUD
 this model is also called as onPremise approach where the company has its own data centers and they are responsible for the complete management their IaaS 
@@ -69,5 +69,5 @@ this model is also called as onPremise approach where the company has its own da
 this model as the name suggests is a hybrid of both public cloud and private cloud
 
 > CROSS CLOUD 
-this model is based on using the multiple clouds at a same time
+this model is based on using the multiple clouds at a same time not so popular as of now.
 
