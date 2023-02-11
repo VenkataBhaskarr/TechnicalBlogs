@@ -1,3 +1,1 @@
-MaterialUI is specifically for React but redux can be used with any javascript framework good point.
-
-TO BE CONTINUED
+## As a part of our project development we learned about MUI trust me its amazingggg
