@@ -10,3 +10,13 @@ The src directory has three parts pages components and layouts where pages is th
 stored does not matter whether they are react,angular or svelte or even astro kind
 
 Astro created its own kind of language with the extension .astro where we can use it to make components the language is mostly similar to react and svelte
+
+In order to jump into the astro space as an astronaut create a directory and run these commands
+
+` npm create astro@latest ` 
+
+In order to create the latest version of astro 
+
+` cd <you-app> `
+
+` npm run dev `
