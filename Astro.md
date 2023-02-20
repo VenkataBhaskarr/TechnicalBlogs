@@ -2,7 +2,7 @@
 ## A powerful web framework used to build contentfull websites such as landing pages,portfolios and buisness websites apart from application oriented web applications which are in general made by Nuxt,Next and etc..
 
 Astro is a web framework where it is mostly focused on content based websites that is it runs javascript from server side mainly
-So the performance of the website increases drastically imagine the website code as an island where the water is html and the land itself is the javascript components.
+So the performance of the website increases drastically imagine the website code as an island where the water is html and the land itself is the javascript code components.
 
 Astro can support many other javascript frameworks we can work with them by integrating them into Astro 
 
