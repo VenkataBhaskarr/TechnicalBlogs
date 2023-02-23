@@ -5,4 +5,4 @@
 3. .NET core works on cross platforms.
 4. .NET SDK is a CLI tool not a graphical user interface.
 5. In order to build differnet kind of applications(like websites) we need different kind of tools on top of .NET
-6. ASP.NET is considered as a framework/tool on top of .NET required to build web apps.
+6. ASP.NET is considered as a frameworK on top of .NET required to build web apps.
