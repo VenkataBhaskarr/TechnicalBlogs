@@ -8,4 +8,4 @@ publishAs: VenkataBhaskar
 ---
 
 
-### Ignore Everything written on this blog because its just a testing blog. 
+### Ignore Everything written on this blog because its just a testing blog for automations. 
