@@ -32,3 +32,4 @@ I just wanted to irritate my friends on whatsup by sending some automated messag
 
 > and when the object is filled with items the on_tweet method is automatically be called.
 
+` upcoming.. linked in automations `
