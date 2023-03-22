@@ -110,7 +110,7 @@ CREDITS : ANIMAGRAFFS youtube video of how a VPN works (the best video about VPN
 
 ## IP6 
 
-1. it's a 128 bit address divided into 8 groups each group consists of 16 bits (generally represneted in hexa decimal format0. 
+1. it's a 128 bit address divided into 8 groups each group consists of 16 bits (generally represented in hexa decimal format0. 
 2. came into existence because IP4 address are running out of stock 😉
 
 ## INTERNET and the History if the INTERNET
