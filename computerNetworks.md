@@ -188,9 +188,9 @@ CREDITS : ANIMAGRAFFS youtube video of how a VPN works (the best video about VPN
 > the default subnet mask for C class IP's are 255.255.255.0
 > you know subnet mask for A class IP's can be also 255.255.0.0 or 255.255.255.0 and same for B and C classes hence we cant judge classes by subnets we can only judge classes by actual IP's
 
-> generally class D IP's are used for routing protocols and class E protocols are not under consideration dont know why. but we will give them a shot as well but not now.
+> generally class D IP's are used for routing protocols and classE protocols are not under consideration dont know why. but we will give them a shot as well but not now.
 
-> but in general whole world doent contain the same network address in order to communicate they have different network address assigned to them but in order t o facilitate communication betoween them routers came into the picture routers enable the communication between different networks.
+> but in general whole world doent contain the same network address in order to communicate they have different network address assigned to them but in order to facilitate communication between them the routers came into the picture routers enable the communication between different networks.
 
 > router store the network address in their routing and sends the information to that network address that is another router
 
