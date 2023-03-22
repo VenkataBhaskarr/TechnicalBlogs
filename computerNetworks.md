@@ -76,7 +76,7 @@ lets see the visualization of how vpn works under the hood
 ## with VPN
 
 1. if you use the vpn service the data packets are encrypted before reaching the router then the modem sends the packets to ISP now the differnece is ISP is redirected to the VPN servers instead of actual website servers 
-2. VPN servers doesnt keep track of the local ip address they assigned to you and the actual servers cant see the IP adddress of where the requet is coing from originally but sees the random ip address of its local area VPN servers.
+2. VPN servers doesnt keep track of the local ip address they assigned to you and the actual servers cant see the IP adddress of where the requuet is coming from originally but sees the random ip address of its local area VPN servers.
 
 ## Advantages
 
