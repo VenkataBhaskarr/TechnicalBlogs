@@ -93,7 +93,7 @@ CREDITS : ANIMAGRAFFS youtube video of how a VPN works (the best video about VPN
 > MAC address are permanent and its the address of NIC hardware but IP address are dynamic and changes based on situations
 
 1. NIC stands for Network interface cards these are the hardware presnet in our systems and helps us to connect to the router in order to send the data packets
-2. these are three types wired NIC(ethernet cable holder) wireless NIC(mostly present in our systems and with this we can connect to the router and send the info to router) and bluetooth NIC.
+2. these are three types wired NIC(ethernet cable holder) wireless NIC(mostly present in our systems and with this we can connect to the router and send the information to router) and bluetooth NIC.
 3. these have some speeds at ehich they can send/recieve information the conslict story of router speed and the NIC speed (will discuss later)
 
 ## What is IP address?
