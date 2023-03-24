@@ -99,7 +99,7 @@ CREDITS : ANIMAGRAFFS youtube video of how a VPN works (the best video about VPN
 ## What is IP address?
 
 1. IP stands for internet protocol address assigned to every host 
-2. there are two types of IP address IP4 and IP6. IP6 is introduced because of all the available IP4 address are being assigned and we running out of address
+2. there are two types of IP address IP4 and IP6, the later was introduced because of all the available IP4 address are being assigned and we running out of address
 
 ## IP4
 
