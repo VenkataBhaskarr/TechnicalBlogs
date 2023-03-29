@@ -1,0 +1,1 @@
+## A powerful automation tool for developers which can be used fo testing , mining and some funny automations it can support javascript, python and ... and supports many browsers includig chrome safari and firefox
