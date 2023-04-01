@@ -47,6 +47,8 @@
 
 [network pentesting](https://www.vulnhub.com/)
 
+[CEH course outline](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/)
+
 
 
 
