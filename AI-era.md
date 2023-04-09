@@ -1,1 +1,4 @@
-## Autunomous AI -check this project on github
+## All the AI tools available out there are mentioned here
+
+` Midjourney - An image generator just your imagination is the limit `
+
