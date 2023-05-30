@@ -8,4 +8,4 @@
 ## AutoGPT
 By the way this is kinda chatGPT on steroids 
 
-## hu huhh!! Bard made its way and its super powerfulll. really
+## hu huuhh!! Bard made its way and its super powerfulll.
