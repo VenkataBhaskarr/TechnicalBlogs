@@ -1,7 +1,7 @@
 
 First of all we need to access appwrite SDK through the config files.
 
-To initilize the appwrite SDK we will use Client object form the appwrite package which inreturn takes two argumentw one is the endpoint url of our project 
+To initilize the appwrite SDK we can use Client/Server object form the appwrite package which inreturn takes two argumentw one is the endpoint url of our project 
 and the project ID itself in order to initilize all appwrite services to that project
 
 ```
