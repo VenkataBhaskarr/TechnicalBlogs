@@ -1,0 +1,42 @@
+## An introduction to a famous protocol for real time coummunications(audio , video) THE webRTC
+
+### What is webRTC ?
+It is a protocol by which two peers cimmunicatre with each other thorugh low latency and standarized way
+
+### webRTC protocol
+Lets say two devices wants to connect to each other first they will collect some information about them 
+1. what are the available options in which public can connect to me
+2. what are the media options of my device
+3. what are security measures of my device
+
+Later these session data will be transmitted to each other by anything you know webRTC doesnot care(whatsapp , mail , ....)
+now the two peers will connect two each other in a n optimal way
+
+### NAT
+network address translation
+
+### STUN
+Session traversal utilities for NAT
+These are light weight servers that are useful to know the public/Gateway IP address of out local machine generally we are allocated with a private IP by 
+router which by using NAT turns into the public IP and sends outside to the world but in order to gain peer to peer connection we some how should know
+the public IP hence these STUN servers are used.
+### TURN
+Traversal using Relays around NAT
+thius is kind of cemtralzed because here the NAT are kinda strinct and only acepts data packets from trusted servers hence the cleint will send the data 
+packets to the server and the server will realy the message to the destination hence th ename traversl using realay around NAT was given to iut
+this is kind of costly servers because one need to maintanin connections to bothe sender and erciver contiunuioslt fro the data
+### ICE
+Interactivity coinnection establishment framework
+This is main compoinent of webRTC because it this is a protocol which collect all the condiataten here canditiate means all the possivble ways of data 
+sharig like using direct IP localIP using STUN or if the NAT/firewalls are strict then by using TURN even.. to establish connection the ultimate
+goal of ICE is to establish low connection/low latency connection to peer to peer
+### SDP
+session discription protocol it is the main component of webRTC this is the large string of Icwe candidates combined with th esecurity and media options
+of the host system 
+
+### working of webRTC
+
+First A will collect its SDP and sends an offer to B via whatsapp/kdskdkdm later B will also get its SDP thprugh ICE framework and sends an answer to A
+and then boom low latency peer to peer connection is established between these two devices.
+
+Thank you
