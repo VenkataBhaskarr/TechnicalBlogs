@@ -9,7 +9,7 @@ Astro can support many other javascript frameworks we can work with them by inte
 The src directory has three parts pages components and layouts where pages is the routing folder and componenets folder is where all our components will be 
 stored does not matter whether they are react,angular or svelte or even astro kind of language.
 
-Astro created its own kind of language with the extension .astro where we can use it to make components the language is mostly similar to react and svelte
+Astro created its own kind of framework with the extension .astro where we can use it to make components the language is mostly similar to react and svelte
 
 In order to jump into the astro space as an astronaut create a directory and run these commands
 
