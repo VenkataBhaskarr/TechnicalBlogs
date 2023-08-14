@@ -4,4 +4,4 @@
 2. Dont invest money that is more important at that moment rather try to invest a small chunk if you lost them also it cant effect you
 3. try to invest your money in index ETF
 4. understand the basic knowledge and practice before entering into real world control your excitement for some time
-5. 
+5. always trust the process and keep learning every single time
