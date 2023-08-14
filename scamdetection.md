@@ -1,4 +1,4 @@
-# UPI Scam Detection and Prevention System
+n# UPI Scam Detection and Prevention System
 ## The Problem
 UPI (Unified Payments Interface) scams have become increasingly prevalent, causing financial losses and distress to innocent victims. Scammers use deceptive tactics to gain the trust of individuals (A) and then trick them into making payments through UPI to the scammer's account (B). Unfortunately, victims often realize they have been scammed after the payment is made, making it challenging to recover the lost funds.
 
