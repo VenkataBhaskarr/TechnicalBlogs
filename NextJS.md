@@ -24,7 +24,7 @@ so how for creating other building blocks we have various libraries and frame wo
 ## what is nextjs then?
 
 nextjs is a javascript framework which provides reamining buidling blocsk to create the web application 
-one can adopt the react for building user interfaces and later use next for outing data rendering and you know for the backend stuff
+one can adopt the react for building user interfaces and later use next for opting data rendering and you know for the backend stuff
 
 ## from javascript to react?
 
