@@ -10,7 +10,7 @@ For suppose if we are not creating a virtual environment and developing/starting
 
 Summary :
 
-Creates another fresh python interpreter and can use it with your required packages
+Creates another fresh python/lang specific interpreter and then you can use your specified version packages
 
 
 ### Commands to create a virtual environments ..
