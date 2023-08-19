@@ -32,6 +32,7 @@ return default app
 Hereby we will do every CRUD operations with this app object.
 
 ``` 
-  import {collection , addDb , .....} from "firebase/firestore"
+  import {collection , addDb , ....., getFirestore} from "firebase/firestore"
   // perform those particular tasks using the imported functions
+  const db = getFirestore(app);
 ```
