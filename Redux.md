@@ -34,3 +34,5 @@ These three combined would be called as a slice(in toolkit) and it is exported t
 
 Usedispatcher hook is used call actions from particular stores
 Useselector hook is used to access the state of a slice/particular store in various components
+
+## I am transitioning to Recoil more on that i will write another blog :)
