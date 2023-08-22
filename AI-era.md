@@ -1,6 +1,9 @@
-## All the AI tools available out there are mentioned here
+## All the AI tools available out there are mentioned here..
 
 ` Midjourney - An image generator just your imagination is the limit `
+
+## ChatGPT
+## Hugging Face
 
 
 ![IMG_1396](https://user-images.githubusercontent.com/111889155/231028066-1c7de3d6-4c01-4daa-b823-c1fcb44de539.PNG)
