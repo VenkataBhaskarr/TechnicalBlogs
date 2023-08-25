@@ -19,5 +19,5 @@ list.sort((ele1 , ele2) => ele1.compareTo(ele2))
      return num*num;
   }
   
-  can be written as square = lambda x : x*x and can be used as normal square()
+  can be written as square = lambda x : x*x and can be used as normal square() function
   
