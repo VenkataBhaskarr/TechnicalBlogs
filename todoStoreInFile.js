@@ -1,3 +1,4 @@
+// This is a simple todo application that uses files as storage medium :)
 const express = require('express');
 const fs = require('fs');
 const app = express();
