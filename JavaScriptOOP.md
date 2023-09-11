@@ -15,7 +15,7 @@ class User(){
 
 constructors are only for the object properties and for methods we would create the subsequent function following the constructor method
 
-### method chaining is possible when we return the instance of the object from a function which is defaulting returning the undefned object.
+### method chaining is possible when we return the instance of the object from a function which is default returning the undefned object.
 
 ```
 class User{
