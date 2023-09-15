@@ -7,6 +7,7 @@ and the project ID itself in order to initialize all appwrite services to that p
 ```
 const client = new Client();
 client.setEndpoint("The URL").setProject(PROJECT ID)
+
 ```
 
 OK, now that we had the access to the app write sdk through the client object
@@ -21,6 +22,7 @@ If we want to use additional services like databases we should then create objec
 
 ```
 export const databases = new Databases(client, "DB ID")
+
 ```
 
 
