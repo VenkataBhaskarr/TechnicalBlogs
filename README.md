@@ -1,3 +1,3 @@
 # TechnicalBlogs
 
-contains some/all of my learnings maybe..
+contains some/all of my learnings 
